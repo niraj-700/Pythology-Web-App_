@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  text-align: center;
+}
+
+.reportentry{
+  width: 60%;
+  margin: 0 auto;
+}
+
